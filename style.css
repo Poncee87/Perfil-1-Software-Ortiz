@@ -1,4 +1,6 @@
-
+*{
+    background-color: antiquewhite;
+}
 .emprendedores {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
