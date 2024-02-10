@@ -1,0 +1,28 @@
+
+.Name1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .content {
+    max-width: 50%;
+  }
+
+  .Parrafo1 {
+    float: left;
+    margin-right: 20px;
+    width: 500px;
+    border-radius: 25px;
+    background: black;
+  }
+
+  .Parrafo2 {
+    text-align: justify;
+
+  }
